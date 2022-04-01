@@ -20,6 +20,9 @@ Content/EnvironmentPack2
 Content/ThirdPerson
 Content/ThidPersonCPP
 Content/Chaos
+Content/ParagonGreyStone
+Content/QuadrapedCreatures
+
 
 # Compiled Dynamic libraries
 *.so
